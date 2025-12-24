@@ -13,7 +13,7 @@
 
 | Nama | Peran |
 |------|--------|
-| **Muhammad Riduwan** | Pengembang & Penyusun Dokumentasi |
+| **Muhammad Riduwan (230104040080)** | Pengembang & Penyusun Dokumentasi |
 | **Muhayat, M.IT** | Dosen Pembimbing |
 🏫 **Universitas Islam Negeri Antasari – Fakultas Teknologi Informasi**
 
