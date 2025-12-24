@@ -161,6 +161,6 @@ Database Lokal (minda.db)
 Proyek ini dikembangkan untuk kepentingan akademik sebagai bagian dari Praktikum Mobile Programming 20251 di **Universitas Islam Negeri Antasari**.
 
 ```
-© 2025 Husin Nafarin Ramadhani  
+© 2025 Muhammad Riduwan  
 Dosen Pembimbing: Muhayat, M.IT
 ```
